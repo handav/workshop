@@ -95,7 +95,7 @@ def compose_midi(all_sightings, duration_stats):
     tempo = 200  # beats per minute
     volume = 100 # from 0-127
     program = 0 # Midi instrument
-    midi_file = midiutil.MIDIFile(1, adjust_origin=True)
+    midi_file = midiutil.MIDIFile(1, deinterleave=False, adjust_origin=True)
     midi_file.addTempo(track, time, tempo)
     midi_file.addProgramChange(track, channel, time, program)
     midi_file.addProgramChange(track, channel+1, time, 52)
