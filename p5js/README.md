@@ -21,4 +21,14 @@ In python 3
 python3 -m http.server
 ```
 
+An alternate option for both Python 2 and 3, which does automatic reloading when you make a change:
+
+First, type:
+
+`pip install livereload`
+
+then, to run the server:
+
+`livereload`
+
 Then, in the browser of your choice (we'll be using Chrome), navigate to http://localhost:8000/ in your url bar.
