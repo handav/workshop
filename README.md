@@ -66,8 +66,7 @@ and
 
 or else install a Conda environment:
 
----
-## Installing Conda
+### Installing Conda
 
 Conda is a environment management tool that will allow us to manage different python versions in your computer.
 
@@ -126,6 +125,9 @@ http://cdm.link/2014/10/nasa-posts-huge-library-space-sounds-youre-free-use/
 
 https://soundcloud.com/nasa (must be logged in to SoundCloud to download).
 
+Remember that these are all different lengths. You can download shorter samples, or edit the audio with a program like Quicktime or Audacity.
+
+---
 
 ## More about the data
 
