@@ -14,16 +14,16 @@ We'll talk about the dataset we'll be working with (ufo sightings!), and go thro
 We'll go over (really) basic music theory.
 
 #### 10:15-10:45 
-Setup and installation. Download repo. Create [conda environments](#installing-conda) if needed (see below). Download additional software (MuseScore) and sound examples.
+Setup and installation (see installation section below). Feel free to take a break if needed.
 
-#### 10:45-11 
+#### 10:45-11:45
+We'll go through the Python examples. 
+
+#### 11:45-12
 BREAK
 
-#### 11-12 
-We'll go through two Python examples. 
-
 #### 12-1
-We'll go through one p5.js example.
+We'll go through the p5.js example.
 
 #### 1-2 
 LUNCH
@@ -100,7 +100,6 @@ Conda is a environment management tool that will allow us to manage different py
    - Make sure you can see (eyeo) prepended before the terminal prompt before proceeding
    - Type: `pip install -r requirements.txt`
 
----
 
 ## 3) Download MuseScore if you haven't already
 
@@ -136,4 +135,12 @@ The data comes from the National UFO Reporting Center (NUFORC): http://www.nufor
 And this repo, which has been cleaned up to create a field for duration in seconds: https://github.com/planetsig/ufo-reports/tree/master/csv-data
 
 The included ufo_small.csv is a cleaned sample of 7 months of UFO sightings, taken from the above repo.
+
+---
+
+## More information about MidiUtil and what you can do with it:
+
+https://media.readthedocs.org/pdf/midiutil/1.1.3/midiutil.pdf
+
+Midi instrument numbers: http://www.pjb.com.au/muscript/gm.html
 

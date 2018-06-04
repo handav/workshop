@@ -11,8 +11,8 @@ function preload() {
   });
   for (var i =1; i<8; i++){
     var filename = 'samples/trimmed/' + i + '.m4a';
-    var song = loadSound(filename);
-    samples.push(song);
+    var s = loadSound(filename);
+    samples.push(s);
   }
 }
 
@@ -39,7 +39,7 @@ function drawToScreen(i){
   textSize(18);
   fill(240);
   let displayText = cleanText(all_sightings[i]['arr'][7]);
-  text(displayText, 500-150, 250-150, 300, 300);
+  text(displayText, 350, 100, 300, 300);
 }
 
 function nextRow(i){
