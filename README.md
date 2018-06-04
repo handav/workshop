@@ -141,3 +141,13 @@ https://media.readthedocs.org/pdf/midiutil/1.1.3/midiutil.pdf
 
 Midi instrument numbers: http://www.pjb.com.au/muscript/gm.html
 
+---
+
+## Resources
+
+https://programminghistorian.org/en/lessons/sonification
+
+https://sonification.de/handbook/chapters/
+
+http://www.algorithmiccomposer.com/2016/01/from-data-to-music-pd-as-sonification.html
+
