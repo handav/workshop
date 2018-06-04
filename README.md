@@ -151,3 +151,6 @@ https://sonification.de/handbook/chapters/
 
 http://www.algorithmiccomposer.com/2016/01/from-data-to-music-pd-as-sonification.html
 
+Music theory for hackers: 
+https://medium.com/@alwaysbcoding/an-intro-to-music-theory-for-hackers-8969ad4c1231
+
