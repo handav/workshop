@@ -16,17 +16,14 @@ We'll go over (really) basic music theory.
 #### 10:15-10:45 
 Setup and installation (see installation section below). Feel free to take a break if needed.
 
-#### 10:45-11:45
+#### 10:50-12
 We'll go through the Python examples. 
 
-#### 11:45-12
-BREAK
-
 #### 12-1
-We'll go through the p5.js example.
+LUNCH
 
 #### 1-2 
-LUNCH
+We'll go through the p5.js example.
 
 #### 2-4:15 
 Independent/group work on your own sonifications/compositions.
