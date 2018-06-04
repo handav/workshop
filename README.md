@@ -103,27 +103,6 @@ Conda is a environment management tool that will allow us to manage different py
 
 ---
 
-## Creating a local server
-
-There are many different ways to create a [local server](https://github.com/processing/p5.js/wiki/Local-server). Here are some:
-
-If you use node and npm you can install `live-server`: 
-```zsh
-npm install -g live-server
-```
-And then run from the root:
-```
-live-server
-```
-If you use python 2:
-```zsh
-python -m SimpleHTTPServer
-```
-In python 3
-```
-python3 -m http.server
-```
-
 ## 3) Download MuseScore if you haven't already
 
 Please download MuseScore (https://musescore.org/en) or a midi sheet music reader of your choice.
@@ -146,3 +125,13 @@ Our p5.js example will work with samples - there are some included in this repo,
 http://cdm.link/2014/10/nasa-posts-huge-library-space-sounds-youre-free-use/
 
 https://soundcloud.com/nasa (must be logged in to SoundCloud to download).
+
+
+## More about the data
+
+The data comes from the National UFO Reporting Center (NUFORC): http://www.nuforc.org/webreports.html
+
+And this repo, which has been cleaned up to create a field for duration in seconds: https://github.com/planetsig/ufo-reports/tree/master/csv-data
+
+The included ufo_small.csv is a cleaned sample of 7 months of UFO sightings, taken from the above repo.
+
