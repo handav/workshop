@@ -18,7 +18,7 @@ https://soundcloud.com/nasa (must be logged in to SoundCloud to download).
 Introduction to my work. Intro to data sonification - what kind of data works best, what kind of mappings work for which type of data? We'll talk about the dataset we'll be working with, and go through any other datasets that participants brought in.
 
 #### 10:15-10:45 
-Setup and installation. Download repo. Create [conda environments](#InstallingConda) if needed (see below). Download additional software (MuseScore) and sound examples.
+Setup and installation. Download repo. Create [conda environments](#installing-conda) if needed (see below). Download additional software (MuseScore) and sound examples.
 
 #### 10:45-11 
 BREAK
