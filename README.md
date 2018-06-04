@@ -22,13 +22,13 @@ We'll go through the Python examples.
 #### 12-1
 LUNCH
 
-#### 1-2 
+#### 1:15-2:15 
 We'll go through the p5.js example.
 
-#### 2-4:15 
+#### 2:15-4
 Independent/group work on your own sonifications/compositions.
 
-#### 4:15-5 
+#### 4-5 
 Presentations of final work (optional) for anyone who wants to show and get feedback. Questions, discussion of anything interesting you learned.
 
 ----
